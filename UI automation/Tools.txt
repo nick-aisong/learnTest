@@ -1,3 +1,6 @@
-Thucydides(Serenity)
+Thucydides(Serenity) 
+https://github.com/thucydides-webtests
+https://github.com/serenity-bdd
+
 selenium
 https://www.jianshu.com/p/8b4b615458b9

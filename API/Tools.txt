@@ -1,2 +1,5 @@
 Soap UI
 Postman
+
+https://github.com/thucydides-webtests
+https://github.com/serenity-bdd
